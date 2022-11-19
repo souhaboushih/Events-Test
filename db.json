@@ -21,6 +21,6 @@
           time: "10:02",
           petsAllowed: true,
           organizer: "foulen ben foulen",
-        },
-      ],
-    };
+        }
+      ]
+    }
