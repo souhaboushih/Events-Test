@@ -1,0 +1,26 @@
+{
+      events: [
+        {
+          id: 522882,
+          category: "bien etre animal",
+          title: "journée d'adoption des chiens",
+          description: "trouvez votre nouvel ami felin",
+          location: "tunis",
+          date: "19/11/2022",
+          time: "12:35",
+          petsAllowed: true,
+          organizer: "foulen ben foulen",
+        },
+        {
+          id: 548216,
+          category: "sauver des animaux",
+          title: "journée d'adoption des chats",
+          description: "aimez ses createurs",
+          location: "tunis",
+          date: "22/11/2022",
+          time: "10:02",
+          petsAllowed: true,
+          organizer: "foulen ben foulen",
+        },
+      ],
+    };
